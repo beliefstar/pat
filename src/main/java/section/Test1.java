@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @Created: 16:08 12/01/2019
  * @Author: xzhen
- * @Description:
+ * @Description: [数素数]
  * 题目描述
  * 令Pi表示第i个素数。现任给两个正整数M <= N <= 10000，请输出PM到PN的所有素数。
  *
